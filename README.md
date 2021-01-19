@@ -1,4 +1,4 @@
-# graphSEAT
+# GraphSEAT: Fusing Global Domain Information and Local Semantic Information to Classify Financial Documents
 
 The implementation of graphSEAT in our paper: 
 Mengzhen Fan, Dawei Cheng, Fangzhou Yang, et al. 
